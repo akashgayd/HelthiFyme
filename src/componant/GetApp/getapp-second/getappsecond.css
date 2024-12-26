@@ -74,3 +74,43 @@
     width: 400px;
     margin-bottom: 20px;
 }
+
+@media only screen and (max-width: 600px){
+    .second-comp-cont{
+        padding-left: 3%;
+        padding-right: 3%;
+    }
+    .second-comp-left-part{
+        width: 100%;
+    }
+
+    .second-comp-right-part{
+        width: 100%;
+    
+    }
+
+    .icon-text-part{
+        width: 164px;
+    }
+
+    .second-right-feature-part{
+        width: 100%;
+    
+    }
+
+    .second-right-heading{
+         width: 300px;
+         font-size: 28px;
+    }
+
+    .second-right-feature-part{
+        width: 100%;
+    }
+
+    .second-comp-para{
+        width: 100%;
+    }
+    
+
+
+}

@@ -39,3 +39,23 @@
     align-items: center;
     margin-bottom: 20px;
 }
+
+@media only screen and (max-width: 600px){
+    .fourth-comp-left-part{
+        width: 100%;
+    }
+
+    .fourth-comp-right-part{
+        width: 100%;
+    }
+    
+
+    .fourth-part-heading{
+        font-size: 28px;
+         width: 100%;
+    }
+
+    .plan-part{
+        width: 100%;
+    }
+}

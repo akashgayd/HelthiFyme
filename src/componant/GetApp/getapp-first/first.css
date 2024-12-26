@@ -32,6 +32,7 @@
 .comp-left-btn-grp{
     width: 320px;
     display: flex;
+   
     justify-content: space-between;
     align-items: center;
 }

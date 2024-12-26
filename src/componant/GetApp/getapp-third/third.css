@@ -38,3 +38,23 @@
     width: 400px;
     height: 100%;
 }
+
+@media only screen and (max-width: 600px){
+    .third-comp-cont{
+        padding-left: 5%;
+       
+    }
+
+    .third-comp-left-part{
+        width: 100%;
+    
+    }
+
+    .third-comp-heading{
+        font-size: 28px;
+    }
+
+    .right-part-img{
+        width: 300px;
+    }
+}
