@@ -1,3 +1,5 @@
+@media (min-width:376px) {
+    
 .app-container{
     width: 100%;
 }
@@ -29,6 +31,7 @@
     justify-content: center;
     align-items: center;
     margin-left: 15px;
+    display: none;
 }
 
 .store-name{
@@ -39,4 +42,21 @@
 
 .store:hover{
     border-radius: 16px;
+}
+}
+@media (min-width:1024px) {
+    
+
+.store{
+    border: 1px solid black;
+    background: transparent;
+    cursor: pointer;
+    border-radius: 8px;
+    padding: 7px 21px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 15px;
+    display: block;
+}
 }
