@@ -1,0 +1,42 @@
+.app-container{
+    width: 100%;
+}
+
+.app-header{
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    background-color: #fff;
+    border: none;
+    border-bottom: 1px solid rgb(180, 180, 180);
+}
+
+.app-header-part{
+    width: 75%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.store{
+    border: 1px solid black;
+    background: transparent;
+    cursor: pointer;
+    border-radius: 8px;
+    padding: 7px 21px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 15px;
+}
+
+.store-name{
+    margin-left: 8px;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.store:hover{
+    border-radius: 16px;
+}

@@ -1,0 +1,38 @@
+.fifth-comp-cont{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    padding-left: 20%;
+    flex-wrap: wrap;
+}
+
+.fifth-comp-left-part{
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+}
+
+.fifth-comp-heading{
+    font-size: 32px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.scale-part{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.fifth-comp-right-part{
+    width: 50%;
+    height: 522px;
+}
+
+.connectivity-img{
+    width: 464px;
+    height: 100%;
+}

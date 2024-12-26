@@ -1,0 +1,192 @@
+
+.suggest-food-main-cont{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    /* border: 1px solid black; */
+align-items: center;
+justify-content: center;
+justify-content: space-around;
+}
+.track-your-food{
+    width: 100%;
+    height: 60%;
+    /* border: 1px solid black; */
+    display: flex;
+    flex-direction: column;
+   justify-content: center;
+    padding: 10px;
+
+}
+
+
+.helthypara{
+
+    color: rgb(5, 94, 5);
+    font-size: 18px;
+
+
+}
+
+.heading-trak-food{
+
+    width: 80%;
+ 
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+.heading-trak-food h1{
+
+    font-size: 35px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.snap-para{
+
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    text-align: end;
+}
+.track-your-food button{
+
+    width: 220px;
+    height: 40px;
+    background-color: transparent;
+    color: green;
+    border: 1px solid green;
+    border-radius: 10px;
+    margin-top: 20px;
+    font-size: 19px;
+}
+
+.order-food{
+    width: 100%;
+    height: 70%;
+  
+   padding: 20px;
+    border: none;
+    background-image: url("imeges/1-Snap.png");
+    background-size: cover;
+    overflow: auto; /* Ensures scrolling functionality remains */
+    scrollbar-width: none; /* For Firefox */
+    -ms-overflow-style: none; /* For IE */
+}
+.order-food p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+}
+
+.snap2{
+
+  width: 100vw;
+  height: 70vh;
+
+  
+    z-index: 1;
+
+}
+.snap3{
+    width: 100%;
+    height: 100%;
+  
+    z-index: 1;
+
+}
+
+@media (min-width:1024px) {
+    
+
+.suggest-food-main-cont{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    /* border: 1px solid black; */
+align-items: center;
+justify-content: center;
+justify-content: space-around;
+}
+.track-your-food{
+    width: 40%;
+    height: 60%;
+    /* border: 1px solid black; */
+    display: flex;
+    flex-direction: column;
+   justify-content: center;
+    padding: 10px;
+
+}
+
+
+.helthypara{
+
+    color: rgb(5, 94, 5);
+    font-size: 18px;
+
+
+}
+
+.heading-trak-food{
+
+    width: 80%;
+ 
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+.heading-trak-food h1{
+
+    font-size: 45px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.snap-para{
+
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    text-align: end;
+}
+.track-your-food button{
+
+    width: 270px;
+    height: 45px;
+    background-color: transparent;
+    color: green;
+    border: 1px solid green;
+    border-radius: 10px;
+    margin-top: 20px;
+    font-size: 19px;
+}
+
+.order-food{
+    width: 40%;
+    height: 80%;
+  
+   padding: 20px;
+    border: none;
+    background-image: url("imeges/1-Snap.png");
+    background-size: cover;
+    overflow: auto; /* Ensures scrolling functionality remains */
+    scrollbar-width: none; /* For Firefox */
+    -ms-overflow-style: none; /* For IE */
+}
+
+.snap2{
+
+  width: 40vw;
+  height: 70vh;
+
+  
+    z-index: 1;
+
+}
+.snap3{
+    width: 100%;
+    height: 100%;
+  
+    z-index: 1;
+
+}
+
+}

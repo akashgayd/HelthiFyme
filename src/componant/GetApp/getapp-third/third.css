@@ -1,0 +1,40 @@
+.third-comp-cont{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    padding-left: 20%;
+    flex-wrap: wrap;
+   
+}
+
+.third-comp-left-part{
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.third-comp-heading{
+    font-size: 32px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.guide-part{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.third-comp-right-part{
+    width: 50%;
+    height: 475px;
+}
+
+.right-part-img{
+    width: 400px;
+    height: 100%;
+}

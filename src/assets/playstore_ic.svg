@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="14.296" height="16" viewBox="0 0 14.296 16">
+  <g id="Playstore" transform="translate(-11.3 -8.501)">
+    <g id="Group_230" data-name="Group 230" transform="translate(11.3 8.501)">
+      <path id="Path_102" data-name="Path 102" d="M22.848,17.545a.88.88,0,0,0-.248.616V32.349a.876.876,0,0,0,.213.576l7.8-7.738Z" transform="translate(-22.6 -17.255)" fill="#00c0f2"/>
+      <path id="Path_103" data-name="Path 103" d="M33.415,22.374l-2.992-1.7-6.231-3.548a.92.92,0,0,0-1.127.169l7.77,7.642Z" transform="translate(-22.817 -17.001)" fill="#19bf60"/>
+      <path id="Path_104" data-name="Path 104" d="M23,39.612a.918.918,0,0,0,1.159.21l6.231-3.548,3.094-1.76L30.8,31.876Z" transform="translate(-22.787 -23.942)" fill="#fc3552"/>
+      <path id="Path_105" data-name="Path 105" d="M43.451,28.918l-3.239-1.844-2.58,2.56,2.682,2.638,3.137-1.786a.9.9,0,0,0,0-1.567Z" transform="translate(-29.614 -21.701)" fill="#ffb900"/>
+    </g>
+  </g>
+</svg>

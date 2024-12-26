@@ -1,0 +1,32 @@
+.helthyfyme-video{
+    width: 100%;
+    padding: 10px;
+    height: 40vh;
+    text-align: center;
+}
+.helthyfyme-video iframe{
+
+    height: 100%;
+    width: 90%;
+   border-radius: 20px;
+
+}
+@media (min-width:1024px) {
+    
+
+    
+
+    .helthyfyme-video{
+        width: 100%;
+        padding: 20px;
+        height: 90vh;
+        text-align: center;
+    }
+    .helthyfyme-video iframe{
+    
+        height: 100%;
+        width: 90%;
+       border-radius: 20px;
+    
+    }
+}

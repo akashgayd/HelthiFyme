@@ -1,0 +1,41 @@
+.fourth-comp-cont{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(246, 246, 246);
+    padding-left: 8%;
+    padding-right: 5%;
+    flex-wrap: wrap;
+}
+
+.fourth-comp-left-part{
+    width: 462px;
+}
+
+.plans{
+    width: 100%;
+}
+
+.fourth-comp-right-part{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start ;
+}
+
+.fourth-part-heading{
+    font-size: 32px;
+    font-weight: 600;
+    margin-bottom: 20px;
+     width: 400px;
+}
+
+.plan-part{
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}

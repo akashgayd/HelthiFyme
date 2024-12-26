@@ -1,0 +1,49 @@
+.First-comp-cont{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.First-comp-cont-1{
+    width: 75%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.first-comp-left{
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+}
+
+.comp-left-heading{
+    font-size: 40px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.comp-left-para{
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.comp-left-btn-grp{
+    width: 320px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.s1{
+    margin-left: 0;
+}
+
+.first-comp-right{
+    width: 500px;
+}
+
+.hero{
+    width: 100%;
+}
